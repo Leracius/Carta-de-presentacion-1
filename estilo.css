@@ -1,0 +1,53 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large; 
+    color: aliceblue;
+    text-align: center;   
+}
+ul, li {
+    color: white;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: 800;
+    list-style-type: none;
+}
+.centrado {
+    text-align: center;
+
+}
+.fotito {
+    border-radius: 50%;
+}
+.qr {
+    margin-left: 0;
+    border-radius: 10%;
+}
+body {
+    background-image: url("antony.png");
+}
+.cuerpo {
+    background-image: url("./cabaios.jpg");
+    padding: 10px;
+    width: 50%;
+    margin: 0 auto;
+    outline: peachpuff;
+    outline-style: solid;
+    outline-width: 5px;
+    border-radius: 5%;
+
+}  
+article {
+    outline-width: 5px;
+    border-radius: 50px;
+
+}
+
+audio {
+    margin: inherit;
+}
+.jesu {
+    margin-left: 90%;
+    border-radius: 10px;
+}
+
